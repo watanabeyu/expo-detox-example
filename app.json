@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo-detox-example",
+    "description": "expo-detox-example",
+    "slug": "expo-detox-example",
+    "privacy": "unlisted",
+    "sdkVersion": "29.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait"
+  }
+}
