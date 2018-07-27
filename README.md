@@ -23,7 +23,8 @@ If no Exponent-xxx.app, open on iOS Simulator any expo apps by xde.
 For this example, Exponent-xxx.app is zipped, and put it in the bin.
 
 ### add detox configuration on package.json
-```js:package.json
+
+``` js
 {
   ...
   "detox": {
@@ -39,7 +40,7 @@ For this example, Exponent-xxx.app is zipped, and put it in the bin.
 ```
 
 ### create test file
-```js:e2e/firstTest.spec.js
+```js
 const { reloadApp } = require('detox-expo-helpers');
 
 function timeout(ms) {
