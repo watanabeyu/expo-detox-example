@@ -1,5 +1,6 @@
 # expo-detox-example
-
+UI Test tool -> [wix/detox](https://github.com/wix/detox)  
+  
 Demonstrates integration of the Detox gray box end-to-end testing library with Expo.  
 Uses [detox-expo-helpers](https://github.com/expo/detox-expo-helpers).
 
